@@ -1,6 +1,6 @@
 {
-    "name": "potter/template",
-    "description": "Template for PHPotter Framework Module",
+    "name": "potter/record",
+    "description": "Open Source PHP 8 Record Interface",
     "minimum-stability": "dev",
     "license": "MIT",
     "type": "library",
