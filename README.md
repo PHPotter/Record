@@ -1,2 +1,2 @@
-# Template
-Template for PHPotter Framework Module
+# Record
+Open Source PHP 8 Record Interface
